@@ -1,7 +1,7 @@
 package fila;
 
 public class FilaString {
-   inal int N = 10;
+   final int N = 10;
     String dados[] = new String[N];
     int ini, fim, cont;
 
